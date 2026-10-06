@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price,unit_cost,billing_cycle
+201,FinSight Enterprise Analytics Platform,Software,45000.0,9000.0,Annual
+202,ApexCloud Core License (Per Seat),Cloud Services,1200.0,250.0,Annual
+203,Real-time Fraud Detection Engine,Security,28000.0,5500.0,Annual
+204,AI Predictive Forecasting Module,AI/ML,35000.0,7000.0,Annual
+205,Enterprise Dataform ETL Connector,Data Engineering,15000.0,3000.0,Annual
+206,SOC2 Automated Audit Gateway,Compliance,22000.0,4500.0,Annual
+207,Executive Intelligence Dashboard Suite,Visualization,18000.0,3200.0,Annual
+208,24/7 Dedicated TAM & Priority SLA Support,Professional Services,20000.0,12000.0,Annual
+209,Custom ML Model Fine-Tuning Package,Professional Services,40000.0,18000.0,One-Time
+210,Hybrid Cloud Migration Accelerator,Professional Services,50000.0,22000.0,One-Time

@@ -1,0 +1,26 @@
+customer_id,company_name,industry,region_id,tier,contact_email,joined_date,credit_limit
+101,NovaTech Global,Technology,6,Enterprise,contact@novatechglobal.com,2025-01-29,250000
+102,Aegis Health Group,Healthcare,2,Mid-Market,contact@aegishealthgroup.com,2025-01-24,50000
+103,Vanguard Financial,Energy,6,Enterprise,contact@vanguardfinancial.com,2024-08-27,500000
+104,Apex Dynamics,Technology,1,Enterprise,contact@apexdynamics.com,2023-08-12,100000
+105,Pinnacle Retail,Retail,5,Enterprise,contact@pinnacleretail.com,2024-07-28,100000
+106,Aura Energy Corp,Energy,6,SMB,contact@auraenergycorp.com,2023-08-14,500000
+107,Zenith Logistics,Financial Services,5,Enterprise,contact@zenithlogistics.com,2025-02-16,100000
+108,Vertex Biotech,Manufacturing,6,Strategic,contact@vertexbiotech.com,2023-10-12,100000
+109,Quantum Capital,Financial Services,2,Enterprise,contact@quantumcapital.com,2023-04-05,500000
+110,Meridian Media,Financial Services,1,Strategic,contact@meridianmedia.com,2024-09-10,250000
+111,Beacon Software,Energy,1,SMB,contact@beaconsoftware.com,2024-07-03,50000
+112,Crestview Capital,Technology,4,Strategic,contact@crestviewcapital.com,2025-04-29,1000000
+113,Starlight Pharma,Retail,3,Mid-Market,contact@starlightpharma.com,2024-12-22,50000
+114,OmniCorp Industries,Energy,1,Mid-Market,contact@omnicorpindustries.com,2025-03-02,250000
+115,BlueWave Solutions,Healthcare,1,Enterprise,contact@bluewavesolutions.com,2024-01-25,250000
+116,Titan Industrial,Energy,4,Strategic,contact@titanindustrial.com,2023-06-16,250000
+117,Solstice Media,Healthcare,3,Strategic,contact@solsticemedia.com,2024-12-19,50000
+118,Hyperion Analytics,Energy,5,Mid-Market,contact@hyperionanalytics.com,2024-06-30,100000
+119,Pacific Cloudworks,Manufacturing,2,SMB,contact@pacificcloudworks.com,2023-10-04,1000000
+120,Nexus Health Systems,Energy,2,Strategic,contact@nexushealthsystems.com,2025-05-13,50000
+121,Ironclad Defense,Technology,2,Strategic,contact@ironcladdefense.com,2024-02-15,250000
+122,Terra Systems,Healthcare,1,Strategic,contact@terrasystems.com,2023-08-06,500000
+123,Optima Banking,Energy,4,SMB,contact@optimabanking.com,2023-05-27,250000
+124,Stratus Infotech,Healthcare,2,Strategic,contact@stratusinfotech.com,2025-02-03,1000000
+125,Synergy Retailers,Retail,4,SMB,contact@synergyretailers.com,2024-01-06,100000

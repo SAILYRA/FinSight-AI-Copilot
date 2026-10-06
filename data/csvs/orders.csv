@@ -1,0 +1,76 @@
+order_id,customer_id,order_date,status,payment_method,total_amount
+1001,105,2024-09-17,Pending,Wire Transfer,21660.0
+1002,122,2024-08-04,Processing,Wire Transfer,181000.0
+1003,122,2024-02-28,Processing,ACH,173150.0
+1004,117,2024-02-24,Completed,Corporate Credit Card,44000.0
+1005,120,2024-06-14,Pending,Wire Transfer,62700.0
+1006,102,2024-05-03,Processing,Wire Transfer,19000.0
+1007,105,2024-12-03,Pending,Corporate Credit Card,121900.0
+1008,122,2024-11-28,Completed,Invoice Net-30,243450.0
+1009,119,2024-04-22,Completed,Wire Transfer,101290.0
+1010,107,2024-10-03,Completed,Invoice Net-30,76000.0
+1011,104,2024-02-19,Pending,ACH,35000.0
+1012,124,2024-06-22,Completed,Corporate Credit Card,148750.0
+1013,105,2024-08-04,Completed,ACH,155600.0
+1014,103,2024-05-01,Completed,Invoice Net-30,139500.0
+1015,101,2024-07-18,Completed,Invoice Net-30,140400.0
+1016,107,2024-01-30,Processing,Wire Transfer,347250.0
+1017,106,2024-02-05,Processing,Wire Transfer,315050.0
+1018,114,2024-12-02,Processing,ACH,146600.0
+1019,122,2024-11-26,Completed,Invoice Net-30,89550.0
+1020,117,2024-05-15,Completed,ACH,94500.0
+1021,106,2024-08-12,Processing,ACH,187250.0
+1022,109,2024-05-24,Processing,Corporate Credit Card,211250.0
+1023,109,2024-01-23,Completed,ACH,25500.0
+1024,118,2024-08-06,Processing,Wire Transfer,22800.0
+1025,112,2024-10-25,Processing,Corporate Credit Card,116100.0
+1026,107,2024-12-15,Completed,Wire Transfer,224200.0
+1027,106,2024-07-30,Completed,Corporate Credit Card,107750.0
+1028,108,2024-04-12,Pending,ACH,213250.0
+1029,109,2024-02-05,Completed,ACH,190300.0
+1030,102,2024-02-25,Processing,Invoice Net-30,178400.0
+1031,109,2024-01-23,Pending,Wire Transfer,274300.0
+1032,117,2024-06-07,Pending,ACH,164500.0
+1033,122,2024-03-30,Processing,ACH,184500.0
+1034,119,2024-11-06,Completed,Invoice Net-30,155000.0
+1035,110,2024-09-20,Processing,ACH,99750.0
+1036,107,2024-03-16,Completed,Wire Transfer,100000.0
+1037,115,2024-07-31,Processing,Corporate Credit Card,244200.0
+1038,106,2024-12-22,Processing,Invoice Net-30,80000.0
+1039,115,2024-03-09,Pending,ACH,238000.0
+1040,115,2024-05-12,Completed,ACH,220250.0
+1041,111,2024-10-03,Completed,Corporate Credit Card,133000.0
+1042,123,2024-04-19,Completed,Invoice Net-30,112800.0
+1043,114,2024-07-18,Processing,Wire Transfer,330350.0
+1044,116,2024-04-22,Completed,Invoice Net-30,145350.0
+1045,105,2024-11-14,Processing,Wire Transfer,119000.0
+1046,106,2024-01-26,Completed,Invoice Net-30,166500.0
+1047,125,2024-08-03,Completed,Wire Transfer,120500.0
+1048,125,2024-11-29,Completed,Wire Transfer,33250.0
+1049,108,2024-03-05,Pending,Wire Transfer,226750.0
+1050,104,2024-10-23,Completed,ACH,237100.0
+1051,119,2024-01-22,Completed,Invoice Net-30,247900.0
+1052,121,2024-08-23,Completed,Invoice Net-30,102000.0
+1053,115,2024-08-11,Processing,ACH,114750.0
+1054,119,2024-11-08,Pending,ACH,57000.0
+1055,116,2024-04-18,Completed,ACH,312500.0
+1056,103,2024-05-03,Pending,Invoice Net-30,226000.0
+1057,123,2024-05-04,Completed,ACH,327000.0
+1058,112,2024-12-25,Pending,ACH,119250.0
+1059,124,2024-10-01,Completed,Corporate Credit Card,54000.0
+1060,104,2024-04-09,Completed,Corporate Credit Card,71600.0
+1061,102,2024-10-10,Completed,Corporate Credit Card,292800.0
+1062,106,2024-01-27,Completed,Invoice Net-30,35700.0
+1063,103,2024-10-22,Completed,Corporate Credit Card,150000.0
+1064,108,2024-03-01,Processing,Invoice Net-30,313250.0
+1065,120,2024-02-20,Completed,Corporate Credit Card,168500.0
+1066,106,2024-01-02,Pending,Invoice Net-30,161500.0
+1067,122,2024-04-29,Completed,Corporate Credit Card,141360.0
+1068,103,2024-01-31,Completed,ACH,131750.0
+1069,115,2024-02-11,Processing,Wire Transfer,52000.0
+1070,125,2024-12-10,Completed,Wire Transfer,85000.0
+1071,109,2024-04-02,Processing,Invoice Net-30,131980.0
+1072,111,2024-07-29,Pending,ACH,315000.0
+1073,125,2024-07-25,Processing,Wire Transfer,204500.0
+1074,121,2024-08-14,Completed,Corporate Credit Card,214000.0
+1075,101,2024-11-18,Processing,Corporate Credit Card,171500.0
