@@ -38,11 +38,19 @@ def generate_sql_from_question(question: str, db: SafeSQLiteDatabase = None) -> 
 
     api_key = settings.GROQ_API_KEY or os.getenv("GROQ_API_KEY")
     if not api_key:
+        try:
+            import streamlit as st
+            if hasattr(st, "secrets") and "GROQ_API_KEY" in st.secrets:
+                api_key = st.secrets["GROQ_API_KEY"]
+        except Exception:
+            pass
+
+    if not api_key:
         # If question is already valid SQL, return as-is
         if question.strip().upper().startswith(("SELECT", "WITH")):
             return question.strip()
         raise ValueError(
-            "GROQ_API_KEY is not configured in .env. Please provide a direct SQL statement or set GROQ_API_KEY to use natural language Text-to-SQL."
+            "GROQ_API_KEY is not configured in .env or Streamlit Secrets. Please provide a direct SQL statement or set GROQ_API_KEY to use natural language Text-to-SQL."
         )
 
     llm = ChatGroq(

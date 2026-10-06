@@ -28,9 +28,17 @@ def get_agent_executor(checkpointer: Optional[MemorySaver] = None):
     """
     api_key = settings.GROQ_API_KEY or os.getenv("GROQ_API_KEY")
     if not api_key:
+        try:
+            import streamlit as st
+            if hasattr(st, "secrets") and "GROQ_API_KEY" in st.secrets:
+                api_key = st.secrets["GROQ_API_KEY"]
+        except Exception:
+            pass
+
+    if not api_key:
         raise ValueError(
-            "GROQ_API_KEY is not set in environment or .env file. "
-            "Please obtain a free API key from https://console.groq.com/keys and add GROQ_API_KEY=gsk_... in your .env"
+            "GROQ_API_KEY is not set in environment, .env file, or Streamlit Secrets. "
+            "Please obtain a free API key from https://console.groq.com/keys and add GROQ_API_KEY=gsk_... in your Streamlit Cloud Secrets."
         )
 
     llm = ChatGroq(
